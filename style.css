@@ -1,0 +1,197 @@
+body {
+    background: url('image/background11.jpg');
+}
+
+.container {
+    padding-left: 0px !important;
+    padding-right: 8px !important;
+}
+
+/* Navbar */
+.custom-nav {
+    background: red !important;
+    justify-content: space-between;
+    padding: 8px 50px;
+}
+
+.nav-link {
+    color: white !important;
+    position: relative;
+    top: 7%;
+}
+
+.nav-link1 {
+    color: white !important;
+    position: relative;
+    top: 10%;
+}    
+
+.navbar-brand {
+    font-size: 38px;
+}
+
+.location {
+    font-size: 28px;
+}
+
+.phone-number {
+    font-size: 27px;
+}
+
+/* Section 1 */
+.section1 {
+    margin-top: -135px;
+}
+.background {
+    background-image: url('image/section1background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 225px;
+    position: relative;
+    z-index: -10;
+    opacity: 0.9;
+}
+
+.sect1-content {
+    position: relative;
+    z-index: 10;
+    top: 45%;
+}
+
+.title {
+    color: white;
+    font-size: 42px;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    text-shadow: 0 0 3px #FF0000;
+    font-weight: 400;
+}
+
+.order-button {
+    padding: 8px 35px;
+    background: white;
+    color: rgb(195, 47, 35);
+    border-radius: 30px;
+    border: rgb(195, 47, 35);
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    outline: none;
+}
+
+.order-button:hover {
+    background: orange;
+    color: white;
+    border: rgb(195, 47, 35);
+}
+
+
+/* Section 2 */
+.section2 {
+    background: color: rgb(195, 47, 35);
+    background: solid #dee2e6; 
+    opacity: 0.9;
+    color: white;
+    padding: 20px 0px;
+}
+
+.menu-item {
+    padding: 25px 25px;
+}
+
+.menu-title {
+    padding-top: 10px;
+    letter-spacing: 1px;
+}
+
+.img-thumbnail2 {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* Section 3 */
+.section3 {
+    color: white;
+    padding: 20px 0px;
+}
+
+.section3-col1 {
+    padding: 0px 40px;
+    border-left: 3px rgb(195, 47, 35);
+}
+
+.chef {
+    border-bottom: 2px solid white;
+    margin-bottom: 25px;
+}
+
+.icon-social {
+    font-size: 40px;
+    padding: 0px 15px 9px 0px;
+}
+
+.icon-social:hover {
+   color: rgb(195, 47, 35);
+   cursor: pointer;
+}
+
+.reviews {
+    border-bottom: 2px solid white;
+    margin-bottom: 25px;
+}
+
+.potrairt {
+    border-radius: 75%;
+}
+
+
+.review-text {
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.icon-star {
+    color: gold;
+}
+
+.review-date {
+    margin-top: -15px;
+    text-indent: 100px;
+}
+
+/* Section 4 */
+.section4 {
+    border-top: 4px solid rgb(195, 47, 35);
+    color: white;
+    padding: 20px 0px;
+}
+
+.copyright {
+    font-size: 20px;
+}
+
+.address {
+    font-size: 20px;
+}
+
+.policy {
+    font-size: 20px;
+}
+
+.policy-link {
+    font-size: 19px;
+    color: white;
+}
+
+.policy-link:hover {
+    color: red;
+    text-decoration: none;
+    outline: none;
+}
+
